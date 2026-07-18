@@ -1,0 +1,6 @@
+{
+  "symbol": "BTCUSD",
+  "actionType": "ORDER_TYPE_SELL",
+  "volume": 0.01,
+  "comment": "Demo BTC sell"
+}
